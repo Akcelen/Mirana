@@ -32,3 +32,15 @@ function showSlides(n) {
 	slides[slideIndex - 1].style.display = " block";
 	dots[slideIndex - 1].className += " active";
 }
+
+var uluru = {lat: 48.5264862, lng: 39.1499637};	    
+    function initMap() {
+    	var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 10, 
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+        	position: uluru,
+        	map: map
+     	})
+  }
