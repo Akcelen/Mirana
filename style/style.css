@@ -239,7 +239,7 @@ nav ul li {
 	margin: 0;
 	padding-top: 96px;
 	color: #ce3b28;
-	font-family: "Myriad Pro - Bold It";
+	font-family: 'Roboto Slab', serif;
 	font-size: 30px;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -250,7 +250,7 @@ nav ul li {
 	padding-top: 29px;
 	padding-bottom: 49px;
 	color: #a75d16;
-	font-family: "Myriad Pro - It";
+	font-family: 'Exo 2', sans-serif;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 25px;
