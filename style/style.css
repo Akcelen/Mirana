@@ -87,7 +87,7 @@ nav ul li {
 	background-repeat: no-repeat;
 	line-height: 50px;
 	color: #ffffff;
-	font-family: "Myriad Pro";
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -319,7 +319,7 @@ footer h5 {
 .mirana p{
 	margin: 0;
 	color: #ebebeb;
-	font-family: "Myriad Pro";
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 30px;
