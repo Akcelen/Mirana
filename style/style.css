@@ -28,7 +28,7 @@ nav ul {
 }
 nav ul li {
 	color: #010101;
-	font-family: "Myriad Pro - Bold It";
+	font-family: 'Lobster', cursive;
 	font-size: 16px;
 	font-weight: 400;
 	letter-spacing: 0.48px;
@@ -87,7 +87,7 @@ nav ul li {
 	background-repeat: no-repeat;
 	line-height: 50px;
 	color: #ffffff;
-	font-family: "Myriad Pro";
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -246,7 +246,7 @@ nav ul li {
 	margin: 0;
 	padding-top: 96px;
 	color: #ce3b28;
-	font-family: "Myriad Pro - Bold It";
+	font-family: "Segoe UI";
 	font-size: 30px;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -257,7 +257,7 @@ nav ul li {
 	padding-top: 29px;
 	padding-bottom: 49px;
 	color: #a75d16;
-	font-family: "Myriad Pro - It";
+	font-family: "Segoe Print";
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 25px;
@@ -266,7 +266,7 @@ nav ul li {
 .subscript .btn p{
 	line-height: 50px;
 	color: #c13a3a;
-	font-family: "Myriad Pro";
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -326,7 +326,7 @@ footer h5 {
 .mirana p{
 	margin: 0;
 	color: #ebebeb;
-	font-family: "Myriad Pro";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 30px;
@@ -360,7 +360,7 @@ footer h5 {
 .contact-header h2 {
 	width: 100%;
 	color: #5d1a21;
-	font-family: "Myriad Pro";
+	font-family: 'Exo 2', sans-serif;
 	font-size: 72px;
 	font-weight: 700;
 	line-height: 405px;
@@ -439,7 +439,7 @@ h3 {
 	margin-top: 40px;
 	margin-bottom: 50px;
 	color: #5d1a21;
-	font-family: "Myriad Pro";
+	font-family: 'Exo 2', sans-serif;
 	font-size: 60px;
 	font-weight: 700;
 	text-transform: uppercase;
