@@ -186,6 +186,9 @@ nav ul li {
 	letter-spacing: 0.54px;
 }
 .video {
+	width: 700px;
+	height: 420px;
+	margin: 0 auto;
 	padding-top: 94px;
 	padding-bottom: 94px;
 	text-align: center;
@@ -193,14 +196,17 @@ nav ul li {
 .recent {
 	max-width: 1200px;
 	margin: 0px auto;
-	display: flex;
-	justify-content: space-between;
-	padding: 82px 0px 100px 0px;
+	padding: 82px 5% 100px 5%;
+	text-align: center;
 }
 .recent-card {
-	position: relative;
+	position: relative;	 
 }
-.recent-card:nth-child(odd) .recent-text {
+.recent-card img {
+	display: block;
+	margin: 0 auto;
+}
+.recent-text {
 	width: 100%;	
 	position: absolute;
 	bottom: 30px;
@@ -212,17 +218,18 @@ nav ul li {
 	letter-spacing: 1px;
 	text-align: center;
 }
-.recent-card:nth-child(even) .recent-text {
-	width: 100%;	
+.slick-active {	
+	outline: none;
+}
+.prev {
 	position: absolute;
-	top: 30px;
-	color: #ffffff;
-	font-family: "Segoe UI";
-	font-size: 25px;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	text-align: center;
+	top: 50%;
+	left: 0;
+	transform: scaleY(-50%);
+	background: ;
+	z-index: 99;
+	width: 40px;
+	height: 40px;
 }
 .recent-text p{
 	margin: 0;
@@ -468,7 +475,7 @@ h3 {
 	letter-spacing: 1.2px;
 	padding-top: 31px;
 }
-.Client-coment{
+.client-coment{
 	margin-top: 100px;
 	width: 100%;
 }

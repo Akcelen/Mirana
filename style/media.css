@@ -36,7 +36,6 @@
 		font-size: 26px;
 	}
 	.recent {
-		flex-wrap: wrap;
 		justify-content: center;
 	}
 	.social-container {
@@ -45,7 +44,7 @@
 	}
 	.social-item{		
     	margin-left: 20px;
-	}
+    }
 	.footer-container {
 		justify-content: space-around;
 	}
@@ -110,8 +109,6 @@
 	.recent {
 		justify-content: center;
 		position: relative;
-		width: 262px;
-		height: 320px;
 	}
 	.prev {
 		display: block;
